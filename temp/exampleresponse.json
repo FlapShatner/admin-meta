@@ -1,0 +1,569 @@
+{
+    "data": {
+      "products": {
+        "edges": [
+          {
+            "node": {
+              "id": "gid://shopify/Product/7165128638547",
+              "title": "American Bald Eagle - Truck Back Window Graphics - We Are Watching",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478525011",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478557779",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478590547",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478623315",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478656083",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7165128671315",
+              "title": "American Bald Eagle - Truck Back Window Graphics - Wings of a Prayer",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478688851",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478721619",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478754387",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478787155",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478819923",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7165128736851",
+              "title": "Free Bird - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478885459",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478918227",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478950995",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409478983763",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479016531",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7165128769619",
+              "title": "Alligator Eyes - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479082067",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479114835",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479147603",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479180371",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479213139",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7165128802387",
+              "title": "Always Free - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479245907",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479278675",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479311443",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479344211",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479376979",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7165128835155",
+              "title": "Air Assault - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479409747",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479442515",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479475283",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479508051",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41409479540819",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7200612319315",
+              "title": "Run it Back - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500131295315",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500131360851",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500131393619",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500131426387",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500131459155",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7200612548691",
+              "title": "Chief With Beef - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500134899795",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500134965331",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135063635",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135129171",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135161939",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7200612679763",
+              "title": "CARDINAL RED - Truck Back Window Decal",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135882835",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135915603",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135948371",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500135981139",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500136013907",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "gid://shopify/Product/7200612810835",
+              "title": "Arizona Cardinals - Truck Back Window Graphics",
+              "variants": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500136800339",
+                      "title": "Name / Text",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500136833107",
+                      "title": "Business (logo ready / no logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500136865875",
+                      "title": "Business (recreate logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500136898643",
+                      "title": "Business (design logo)",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "gid://shopify/ProductVariant/41500136931411",
+                      "title": "None",
+                      "metafields": {
+                        "edges": []
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "extensions": {
+      "cost": {
+        "requestedQueryCost": 86,
+        "actualQueryCost": 50,
+        "throttleStatus": {
+          "maximumAvailable": 2000,
+          "currentlyAvailable": 1950,
+          "restoreRate": 100
+        }
+      }
+    }
+  }

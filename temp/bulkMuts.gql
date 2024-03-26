@@ -1,0 +1,50 @@
+const pollQuery = {
+    # replace below with the gid of the bulk operation
+  node(id: "gid://shopify/BulkOperation/3311620816979") {
+    ... on BulkOperation {
+      id
+      status
+      errorCode
+      createdAt
+      completedAt
+      objectCount
+      fileSize
+      url
+      partialDataUrl
+    }
+  }
+}
+
+const bulkMut =  mutation {
+    bulkOperationRunQuery(
+      query:"""
+      {
+        products(first: 500, query: "tag:'truck'") {
+          edges {
+            node {
+              id
+              title
+              variants(first: 5) {
+                edges {
+                  node {
+                    id
+                    title                
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      """
+    ) {
+      bulkOperation {
+        id
+        status
+      }
+      userErrors {
+        field
+        message
+      }
+    }
+  }

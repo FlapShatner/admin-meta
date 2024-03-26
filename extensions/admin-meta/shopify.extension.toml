@@ -1,0 +1,14 @@
+api_version = "2023-07"
+
+[[extensions]]
+name = "t:name"
+handle = "admin-meta"
+type = "ui_extension"
+
+
+[[extensions.targeting]]
+module = "./src/AddMeta.jsx"
+
+target = "admin.product-index.action.render"
+
+
